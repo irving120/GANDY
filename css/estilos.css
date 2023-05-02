@@ -1,0 +1,55 @@
+.bgcolor{
+    background-color: black;
+}
+
+.titulo{
+    color: white;
+    text-align: center;
+    font-size: 5rem;
+    font: arial;
+    letter-spacing: 50px;
+
+}
+
+.centrar{
+    text-align: center;
+    color: white;
+}
+.color{
+    color: white;
+    overflow: hidden;
+    width: max-content;
+    height: auto;
+}
+.tm{
+    float: left;
+    padding-left: 60px;
+    padding-right: 60px;
+    margin: 20px;
+}
+.sub{
+    
+    padding-left: 35px;
+    font-size: 22px;
+}
+.d{
+    color: white;
+    padding-top: 20px;
+    
+}
+.d:hover{
+    text-decoration: underline;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+img{
+    width: max-content;
+    height: 350px;
+    border-radius: 80px;
+}
+.des{
+    width: 60%;
+    text-align: center;
+}
